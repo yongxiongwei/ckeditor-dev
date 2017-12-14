@@ -1,4 +1,4 @@
-@bender-tags: bug, 4.8.0, 595
+@bender-tags: bug, 4.8.1, 595
 @bender-ui: collapsed
 @bender-ckeditor-plugins: wysiwygarea, toolbar, clipboard, floatingspace, htmlwriter,
 
