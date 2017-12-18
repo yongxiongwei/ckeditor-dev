@@ -8,7 +8,8 @@ Click paste button on the toolbar.
 
 ### Expected result:
 
-Notification about unability to paste in such way is displayed.
+**Non-IEs**: Notification about inability to paste in such way is displayed.
+**IEs**: Popup asking for Clipboard Permissions is displayed.
 
 ## On touch devices
 
