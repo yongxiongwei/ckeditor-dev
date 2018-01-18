@@ -24,6 +24,7 @@ Fixed Issues:
 * [#1356](https://github.com/ckeditor/ckeditor-dev/issues/1356): Fixed: [Border parse function](https://docs.ckeditor.com/ckeditor4/docs/#!/api/CKEDITOR.tools.style.parse-method-border) should allow spaces in the color value.
 * [#1426](https://github.com/ckeditor/ckeditor-dev/issues/1426): [IE8-9] Fixed: Missing balloon toolbar background in Kama skin. Thanks to [Christian Elmer](https://github.com/keinkurt)!
 * [#1010](https://github.com/ckeditor/ckeditor-dev/issues/1010): Fixed: CSS `border` shorthand property was incorrectly expanded ignoring `border-color` style.
+* [#1268](https://github.com/ckeditor/ckeditor-dev/issues/1268): Fixed: Dropdowns does not show hover state inside balloon toolbar.
 
 API Changes:
 
