@@ -67,7 +67,9 @@
 			editor.ui.addButton( button.name, {
 				label: button.label,
 				command: button.command,
-				toolbar: 'easyimage,' + ( button.order || 99 )
+				toolbar: 'easyimage,' + ( button.order || 99 ),
+				icon: button.icon,
+				iconHiDpi: button.iconHiDpi
 			} );
 		}
 
@@ -136,7 +138,9 @@
 					name: 'Easyimage' + capitalize( name ),
 					label: button.label,
 					command: 'easyimage' + capitalize( name ),
-					order: 99
+					order: 99,
+					icon: button.icon,
+					iconHiDpi: button.iconHiDpi
 				}
 			} );
 		}
